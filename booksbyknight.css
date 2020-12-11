@@ -1,0 +1,6 @@
+#backDrop{
+    display: grid;
+    max-width: 100%;
+    filter: blue 20%
+    opacity .2
+  }
